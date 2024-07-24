@@ -1,4 +1,4 @@
-<h1>Hi, I'm Minh, an <a href="https://www.linkedin.com/in/minh-tran-97129131b/">who wants to join the world of IT!</a>☺</h1>
+<h1>Hi, <a href="https://www.linkedin.com/in/minh-tran-97129131b/">I'm Minh! </a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
