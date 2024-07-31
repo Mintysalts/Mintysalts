@@ -8,7 +8,7 @@
   - WIP [osTicket: Ticket Lifecycle Examples]()
 - <b>Microsoft Azure</b>
   - WIP [Configuring On-premises Active Directory within Azure VMs]()
-  - WIP [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Mintysalts/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Mintysalts/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
 
 <h2>🤳Connect with me:</h2>
 
